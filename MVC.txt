@@ -1,0 +1,22 @@
+Models
+	​UserModel.js
+	​BeverageModel.js
+	OrderModel.js
+	CreditCardModel.js
+	SaleModel.js​​​
+Views
+	​index.html
+	​login.html
+	​register.html
+	productpage.html
+	myorderhistory.html
+	mycreditcards.html
+	myaccount.html
+	basket.html
+	about.html​​
+	​contact.html
+	contact_after.html
+ 
+Controllers
+	MainApiController.js
+	SettingsController.js
