@@ -19,4 +19,5 @@ Views
  
 Controllers
 	MainApiController.php
+	AdminController.php
 	SettingsController.php
