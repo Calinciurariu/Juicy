@@ -1,9 +1,9 @@
 Models
-	​UserModel.js
-	​BeverageModel.js
-	OrderModel.js
-	CreditCardModel.js
-	SaleModel.js​​​
+	​UserModel.php
+	​BeverageModel.php
+	OrderModel.php
+	CreditCardModel.php
+	SaleModel.php​​​
 Views
 	​index.html
 	​login.html
@@ -18,5 +18,5 @@ Views
 	contact_after.html
  
 Controllers
-	MainApiController.js
-	SettingsController.js
+	MainApiController.php
+	SettingsController.php
